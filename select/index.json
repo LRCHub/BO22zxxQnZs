@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ハッタリ",
+  "base_artist": "NEE",
+  "createdAt": "2025-12-02T12:16:19.083482Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハッタリ",
+      "artist": "NEE",
+      "has_synced": false,
+      "path": "select/pl_01_ハッタリ_NEE.txt"
+    }
+  ]
+}
